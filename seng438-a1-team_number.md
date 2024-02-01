@@ -34,8 +34,7 @@ learned	1](#_Toc439194682)
 # Introduction
 
 
-# An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+# An introduction of your lab work, and what you knew about exploratory and manual functional testing before this lab
 
 Exploratory testing is a manual, human-based approach to software testing. It involves the creation and execution of test values, based on the testers' knowledge of the program. Exploratory testing is unscripted, with no predefined test cases. However, testers should have a clear understanding of how the application is intended to function. 
 
