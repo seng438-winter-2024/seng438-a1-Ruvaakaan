@@ -4,10 +4,10 @@
 
 | Group: Group Number      |
 |-----------------|
-| Student 1 name: Ethan Bensler ucid: 30140326             |   
-| Student 2 name: Liam Brennan ucid: 30142832              |   
-| Student 3 name: Andrew Duong ucid: 30139573              |   
-| Student 4 name: Joseph Duong ucid: 30145210              |   
+| Student 1 name: Ethan Bensler        |   
+| Student 2 name: Liam Brennan         |   
+| Student 3 name: Andrew Duong         |   
+| Student 4 name: Joseph Duong         |   
 
 
 **Table of Contents**
